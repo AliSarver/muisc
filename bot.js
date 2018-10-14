@@ -52,7 +52,7 @@ client.on('ready', () => {
     client.user.setStatus("idle")
 });
 client.on('ready', () => {
-     client.user.setActivity("l     Vida 💔",{type: 'WATCHING'});
+     client.user.setActivity("l     1play",{type: 'WATCHING'});
  
 });
 
