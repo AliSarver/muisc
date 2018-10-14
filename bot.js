@@ -52,7 +52,7 @@ client.on('ready', () => {
     client.user.setStatus("idle")
 });
 client.on('ready', () => {
-     client.user.setActivity("العقل السليم في البعد عن الحريم 💔",{type: 'WATCHING'});
+     client.user.setActivity("l     Vida 💔",{type: 'WATCHING'});
  
 });
 
