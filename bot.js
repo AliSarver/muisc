@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const prefix = '3'
+const prefix = '4'
 
 client.on('ready', () => {
 
@@ -52,7 +52,7 @@ client.on('ready', () => {
     client.user.setStatus("idle")
 });
 client.on('ready', () => {
-     client.user.setActivity("l     3play",{type: 'WATCHING'});
+     client.user.setActivity("l     4play",{type: 'WATCHING'});
  
 });
 
